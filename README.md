@@ -22,10 +22,10 @@ The CTX-Logging-Visibility module requires the following files:
 * [CTX-Logging-Visibility Studio Package](#)
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/main/CTX-Logging-Visibility%20-%20Deployment%20Plan.pdf](#Installation).
+Details of how the module should be imported into Cortex can be found in the [CTX-Logging-Visibility - Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/main/CTX-Logging-Visibility%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/c30672c7772477fa78c8aef78934327ce0311572/CTX-Logging-Visibility%20-%20User%20Guide.pdf](#). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [CTX-Logging-Visibility - User Guide](https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/c30672c7772477fa78c8aef78934327ce0311572/CTX-Logging-Visibility%20-%20User%20Guide.pdf). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
