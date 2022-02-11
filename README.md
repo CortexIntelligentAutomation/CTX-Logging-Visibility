@@ -19,7 +19,7 @@ This version of the CTX-Logging-Visibility module was developed in Cortex v7.1.0
 
 ### Files
 The CTX-Logging-Visibility module requires the following files:
-* [CTX-Logging-Visibility Studio Package](#)
+* [CTX-Logging-Visibility Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/802491b4fd834d183a4767bf3096e5039b971927/CTX-Logging-Visibility.studiopkg)
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [CTX-Logging-Visibility - Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Logging-Visibility/blob/main/CTX-Logging-Visibility%20-%20Deployment%20Plan.pdf).
